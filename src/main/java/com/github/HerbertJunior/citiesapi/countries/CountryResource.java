@@ -1,7 +1,7 @@
-package com.github.HerbertJunior.citiesapi;
+package com.github.HerbertJunior.citiesapi.countries;
 
 import com.github.HerbertJunior.citiesapi.countries.Country;
-import com.github.HerbertJunior.citiesapi.repository.CountryRepository;
+import com.github.HerbertJunior.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.web.bind.annotation.GetMapping;
